@@ -1,0 +1,28 @@
+{
+  "name": "euler",
+  "version": "0.0.0",
+  "description": "Project Euler exercises",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "~0.4.2",
+    "grunt-coffeelint": "~0.0.8"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-coffeelint": "0.0.8",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-coffee": "~0.8.0",
+    "grunt-jasmine-node": "~0.1.0",
+    "grunt-contrib-concat": "~0.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "euler",
+    "bored",
+    "exercises"
+  ],
+  "author": "Bryan Grimes @bryangrimes",
+  "license": "MIT"
+}
